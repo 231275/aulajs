@@ -1,1 +1,1 @@
-# aulaJS
+# trabalho-pratico-algoritmos
